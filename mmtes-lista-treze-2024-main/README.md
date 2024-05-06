@@ -1,8 +1,4 @@
-# Aplicações Java com Testes Unitários
 
-Este repositório contém uma série de exercícios propostos pelo professor Daniel Paiva para a disciplina de Modelos, Métodos e Técnicas de Engenharia de Software, do Centro Universitário UNA.
-
-## Descrição dos Exercícios
 
 ### a) Exercicio 1
 Crie um programa que peça o nome, CPF e idade para um usuário. O CPF tem que possuir o tamanho de 11 dígitos, o nome ser uma String e a idade um 
@@ -26,9 +22,3 @@ Escreva um algoritmo que leia uma temperatura fornecida pelo usuário a partir d
 ### e) Exercicio 5
 Construa uma função que receba uma data no formato DD/MM/AAAA e devolva uma string no formato D de mesPorExtenso de AAAA. Valide a data e retorne NULL caso a data seja inválida.
 
----
-*Centro Universitário UNA*
-
-*Modelos, Métodos e Técnicas de Engenharia de Software*
-
-*Professor: Daniel Henrique Matos de Paiva*
